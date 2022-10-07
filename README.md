@@ -1,0 +1,1 @@
+# avg-global-temp-graph
